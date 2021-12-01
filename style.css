@@ -15,6 +15,9 @@ body{
     height: 4rem;
     width: 75%;
     padding: 1rem;
+    font-family: 'Cookie', cursive;
+    font-size: larger;
+    font-weight: 100;
 }
 .button{
     text-align: center;
@@ -26,7 +29,7 @@ body{
     height: 4rem;
     width: 75%;
     padding: 1rem;
-    margin-left: 5.5rem;
+    margin-left: 5.3rem;
 }
 .button2 {
     background-color: white; 
@@ -42,8 +45,12 @@ body{
     color: white;
    
   }
-  .output-para{
+  .outputdiv{
       font-size: xx-large;
+  }
+  .footer-para{
+      font-size: larger;
+      font-family:'Cookie', cursive ;
   }
   .footer{
     margin-top: 4rem;
